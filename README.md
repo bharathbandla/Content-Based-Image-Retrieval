@@ -37,4 +37,4 @@ This is basic content Based Image Retrieval project
 ![colorhist](https://user-images.githubusercontent.com/82259446/136047789-798d3917-1ed0-4cf5-8e25-1db1c89f8440.gif)
 
 ## The Second section of the project that is ***color histogram CBIR*** is the idea taken from <a href="https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/">pyimagesearch </a>
-### Thanks to pyimagesearch, for making color histogram CBIR as open source
+### Thanks to pyimagesearch, for making color histogram CBIR blog as open source
